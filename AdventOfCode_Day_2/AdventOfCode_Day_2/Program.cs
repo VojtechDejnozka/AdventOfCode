@@ -9,6 +9,7 @@ namespace AdventOfCode_Day_2
             int answer;
             int forward = 0;
             int depth = 0;
+            int aim = 0;
             while (true)
             {
                 string[] inputs = Console.ReadLine().Split();
@@ -17,18 +18,21 @@ namespace AdventOfCode_Day_2
                 if (command == "forward")
                 {
                     forward = forward + number;
+                    depth = depth + (aim * number);
                 }
                 else if (command == "down")
-                {
-                    depth = depth + number;
+                {                  
+                    aim = aim + number;
                 }
                 else if (command == "up")
-                {
-                    depth = depth - number;
+                {                    
+                    aim = aim - number;
                 }
 
 
                 answer = forward * depth;
+                Console.WriteLine("depth: " + depth);
+                Console.WriteLine("forward: " + forward);
                 Console.WriteLine("The answer is " + answer);
             }
         }
