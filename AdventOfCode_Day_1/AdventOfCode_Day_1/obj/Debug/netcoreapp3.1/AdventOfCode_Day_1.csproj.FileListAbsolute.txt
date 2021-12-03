@@ -1,0 +1,14 @@
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.exe
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.deps.json
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.runtimeconfig.json
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.runtimeconfig.dev.json
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.dll
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\bin\Debug\netcoreapp3.1\AdventOfCode_Day_1.pdb
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.csproj.AssemblyReference.cache
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.AssemblyInfoInputs.cache
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.AssemblyInfo.cs
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.csproj.CoreCompileInputs.cache
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.dll
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.pdb
+C:\Users\vojta\source\repos\AdventOfCode_Day_1\AdventOfCode_Day_1\obj\Debug\netcoreapp3.1\AdventOfCode_Day_1.genruntimeconfig.cache
