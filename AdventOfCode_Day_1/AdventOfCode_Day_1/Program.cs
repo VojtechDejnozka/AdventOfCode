@@ -9,35 +9,44 @@ namespace AdventOfCode_Day_1
             int increased = 0;
             int decreased = 0;
             int na = 0;
+            int temp = 0;
+            int temp2 = 0;
             int[] input = new int[10000];
+            int[] values = new int[3];
             int i = 0;
+            int j = 0;
             while (true)
             {
                 string readLine = Console.ReadLine();
-                int value = Int32.Parse(readLine);
+                int value = Int32.Parse(readLine);                         
                 input[i] = value;
-                if (i == 0)
+                values[j] = input[i];
+                if (i > 1)
                 {
-                    na++;
+                    temp = values[0] + values[1] + values[2];
+                    if (temp > temp2)
+                    {
+                        increased++;                       
+                    }
+                    temp2 = temp;
                 }
-                else if (input[i] > input[i - 1])
-                {
-                    increased++;                    
-                }
-                else if (input[i] < input [i-1])
-                {
-                    decreased++;
+
+
+
+                Console.WriteLine(increased);
+
+
+                i++;
+                if (j==2)
+                {                   
+                    j = 0;
                 }
                 else
                 {
-                    na++;
+                    j++;
                 }
-                Console.WriteLine("");
-                Console.WriteLine(increased);
-                i++;
-
             }
-            
         }
+
     }
 }
