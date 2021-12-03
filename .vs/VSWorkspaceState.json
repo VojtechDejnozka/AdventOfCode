@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\AdventOfCode_Day_1",
-    "\\AdventOfCode_Day_2"
+    "\\AdventOfCode_Day_2",
+    "\\AdventOfCode_Day_2\\AdventOfCode_Day_2"
   ],
-  "SelectedNode": "\\AdventOfCode_Day_2",
+  "SelectedNode": "\\AdventOfCode_Day_2\\AdventOfCode_Day_2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
